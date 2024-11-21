@@ -183,7 +183,7 @@ const MinimalCV = () => {
 
         {/* Education */}
         <section className="space-y-8">
-          <h3 className="text-2xl font-bold">{t.sections.experience}</h3>
+          <h3 className="text-2xl font-bold">{t.sections.education}</h3>
           <div className="space-y-8">
             {education.map((edu, index) => (
               <div key={index} className="flex justify-between items-start">
