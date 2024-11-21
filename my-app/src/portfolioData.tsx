@@ -285,14 +285,14 @@ const portfolio: Project[] = [
 const skills = {
     categories: {
         pl: {
-            "Frontend": ["JavaScript", "TypeScript", "React.js", "Next.js", "Tailwind CSS"],
-            "Backend": ["Node.js", "Express.js", "Apollo", "GraphQL", "REST API", "MongoDB", "Mongoose", "SQL"],
+            "Frontend": ["JavaScript", "TypeScript", "React.js", "Next.js", "Tailwind CSS", "shadcn/ui", "Material-UI"],
+            "Backend": ["Node.js", "Express.js", "Apollo", "GraphQL", "REST API", "MongoDB", "Mongoose", "SQL", "PHP"],
             "DevOps": ["AWS (EC2)", "Docker", "Nginx", "Git"],
             "Narzędzia": ["Jira", "Postman", "VS Code"]
         },
         en: {
-            "Frontend": ["JavaScript", "TypeScript", "React.js", "Next.js", "Tailwind CSS"],
-            "Backend": ["Node.js", "Express.js", "Apollo", "GraphQL", "REST API", "MongoDB", "Mongoose", "SQL"],
+            "Frontend": ["JavaScript", "TypeScript", "React.js", "Next.js", "Tailwind CSS", "shadcn/ui", "Material-UI"],
+            "Backend": ["Node.js", "Express.js", "Apollo", "GraphQL", "REST API", "MongoDB", "Mongoose", "SQL", "PHP"],
             "DevOps": ["AWS (EC2)", "Docker", "Nginx", "Git"],
             "Tools": ["Jira", "Postman", "VS Code"]
         }
