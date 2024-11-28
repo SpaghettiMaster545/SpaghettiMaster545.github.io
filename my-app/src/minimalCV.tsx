@@ -44,7 +44,7 @@ const MinimalCV = () => {
               <h2 className="text-xl ">{t.header.role}</h2>
               <div className="flex items-center justify-center md:justify-start gap-2 ">
                 <MapPin className="h-4 w-4" />
-                <span>Kłaj, Małopolskie</span>
+                <span>Kraków, Małopolskie</span>
               </div>
             </div>
 
