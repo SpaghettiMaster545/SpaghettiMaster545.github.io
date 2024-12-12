@@ -9,7 +9,7 @@ export const translations = {
         },
         header: {
             role: "Fullstack Software Engineer",
-            description: "19-letni, ambitny programista full-stack z ponad 2-letnim doświadczeniem komercyjnym w nowoczesnych technologiach webowych. Łączę praktyczne doświadczenie w React/Node.js z pasją do tworzenia wydajnych rozwiązań. Poszukuję roli, która pozwoli mi rozwijać moje umiejętności w dynamicznym środowisku IT.",
+            description: "Ambitny programista full-stack z ponad 2-letnim doświadczeniem komercyjnym w nowoczesnych technologiach webowych. Łączę praktyczne doświadczenie w React/Node.js z pasją do tworzenia wydajnych rozwiązań. Poszukuję roli, która pozwoli mi rozwijać moje umiejętności w dynamicznym środowisku IT.",
             downloadCV: "Pobierz CV",
             CVFileName: "Piotr_Sobas_CV_FullStack_Developer_PL.pdf"
         },
@@ -40,7 +40,7 @@ export const translations = {
         },
         header: {
             role: "Fullstack Software Engineer",
-            description: "A 19-year-old ambitious full-stack developer with over 2 years of commercial experience in modern web technologies. I combine practical experience in React/Node.js with a passion for creating efficient solutions. I am seeking a role that will allow me to develop my skills in a dynamic IT environment.",
+            description: "Ambitious full-stack developer with over 2 years of commercial experience in modern web technologies. I combine practical experience in React/Node.js with a passion for creating efficient solutions. I am seeking a role that will allow me to develop my skills in a dynamic IT environment.",
             downloadCV: "Download CV",
             CVFileName: "Piotr_Sobas_CV_FullStack_Developer_EN.pdf"
         },
