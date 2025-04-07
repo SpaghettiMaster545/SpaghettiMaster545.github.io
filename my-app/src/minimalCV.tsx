@@ -30,13 +30,13 @@ const MinimalCV = () => {
       <main className="max-w-5xl mx-auto px-4 py-16 space-y-24">
         {/* Header with Photo */}
         <header className="flex flex-col md:flex-row gap-12 items-center md:items-start scroll-mt-24" id="about">
-          <div className="flex-shrink-0">
+          {/* <div className="flex-shrink-0">
             <img
               src="./img/photo.jpg"
               alt="Piotr Sobas"
               className="rounded-full w-48 h-48 object-cover "
             />
-          </div>
+          </div> */}
 
           <div className="space-y-6 text-center md:text-left ">
             <div className="space-y-2">
